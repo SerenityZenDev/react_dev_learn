@@ -19,7 +19,8 @@ export default function MyApp(){
   return (
     <div>
       <h1>Welcome to my app</h1>
-      <MyButton />
+      <img className="avatar" src="#" alt="Avatar"/>
+      <AboutPage />
     </div>
   )
 }
